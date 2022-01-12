@@ -1,0 +1,19 @@
+{
+  "name": "@wangming98160/package2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangming98160/package2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangming98160/package2/issues"
+  },
+  "homepage": "https://github.com/wangming98160/package2#readme"
+}
